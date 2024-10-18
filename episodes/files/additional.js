@@ -9,6 +9,7 @@ window.onload = function() {
 
   console.log("FOOOOO")
   console.log(dropdownButton)
+  console.log(ddparent)
   if (dropdownButton && dropdownButton.innerText.trim() === 'Learner View') {
     const buttons = document.querySelectorAll('.solution-button');
     buttons.forEach(button => {
