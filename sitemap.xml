@@ -1,177 +1,201 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/01-run-quit.html</loc>
+    <loc>https://domonik.github.io/python-novice/01-run-quit.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/02-variables.html</loc>
+    <loc>https://domonik.github.io/python-novice/02-variables.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/03-types-conversion.html</loc>
+    <loc>https://domonik.github.io/python-novice/03-types-conversion.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/04-built-in.html</loc>
+    <loc>https://domonik.github.io/python-novice/04-built-in.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/05-coffee.html</loc>
+    <loc>https://domonik.github.io/python-novice/05-coffee.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/06-libraries.html</loc>
+    <loc>https://domonik.github.io/python-novice/06-libraries.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/07-reading-tabular.html</loc>
+    <loc>https://domonik.github.io/python-novice/07-reading-tabular.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/08-data-frames.html</loc>
+    <loc>https://domonik.github.io/python-novice/08-data-frames.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/09-plotting.html</loc>
+    <loc>https://domonik.github.io/python-novice/09-plotting.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/10-lunch.html</loc>
+    <loc>https://domonik.github.io/python-novice/10-lunch.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/11-lists.html</loc>
+    <loc>https://domonik.github.io/python-novice/11-lists.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/12-for-loops.html</loc>
+    <loc>https://domonik.github.io/python-novice/12-for-loops.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/13-conditionals.html</loc>
+    <loc>https://domonik.github.io/python-novice/13-conditionals.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/14-looping-data-sets.html</loc>
+    <loc>https://domonik.github.io/python-novice/14-looping-data-sets.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/15-coffee.html</loc>
+    <loc>https://domonik.github.io/python-novice/15-coffee.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/16-writing-functions.html</loc>
+    <loc>https://domonik.github.io/python-novice/16-writing-functions.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/17-scope.html</loc>
+    <loc>https://domonik.github.io/python-novice/17-scope.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/18-style.html</loc>
+    <loc>https://domonik.github.io/python-novice/18-style.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/19-wrap.html</loc>
+    <loc>https://domonik.github.io/python-novice/19-wrap.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/20-feedback.html</loc>
+    <loc>https://domonik.github.io/python-novice/20-feedback.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/404.html</loc>
+    <loc>https://domonik.github.io/python-novice/404.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/CODE_OF_CONDUCT.html</loc>
+    <loc>https://domonik.github.io/python-novice/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/LICENSE.html</loc>
+    <loc>https://domonik.github.io/python-novice/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/design.html</loc>
+    <loc>https://domonik.github.io/python-novice/aio.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/discuss.html</loc>
+    <loc>https://domonik.github.io/python-novice/design.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/exercises.html</loc>
+    <loc>https://domonik.github.io/python-novice/discuss.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/index.html</loc>
+    <loc>https://domonik.github.io/python-novice/exercises.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/instructor/01-run-quit.html</loc>
+    <loc>https://domonik.github.io/python-novice/images.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/instructor/02-variables.html</loc>
+    <loc>https://domonik.github.io/python-novice/index.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/instructor/03-types-conversion.html</loc>
+    <loc>https://domonik.github.io/python-novice/instructor/01-run-quit.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/instructor/04-built-in.html</loc>
+    <loc>https://domonik.github.io/python-novice/instructor/02-variables.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/instructor/05-coffee.html</loc>
+    <loc>https://domonik.github.io/python-novice/instructor/03-types-conversion.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/instructor/06-libraries.html</loc>
+    <loc>https://domonik.github.io/python-novice/instructor/04-built-in.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/instructor/07-reading-tabular.html</loc>
+    <loc>https://domonik.github.io/python-novice/instructor/05-coffee.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/instructor/08-data-frames.html</loc>
+    <loc>https://domonik.github.io/python-novice/instructor/06-libraries.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/instructor/09-plotting.html</loc>
+    <loc>https://domonik.github.io/python-novice/instructor/07-reading-tabular.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/instructor/10-lunch.html</loc>
+    <loc>https://domonik.github.io/python-novice/instructor/08-data-frames.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/instructor/11-lists.html</loc>
+    <loc>https://domonik.github.io/python-novice/instructor/09-plotting.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/instructor/12-for-loops.html</loc>
+    <loc>https://domonik.github.io/python-novice/instructor/10-lunch.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/instructor/13-conditionals.html</loc>
+    <loc>https://domonik.github.io/python-novice/instructor/11-lists.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/instructor/14-looping-data-sets.html</loc>
+    <loc>https://domonik.github.io/python-novice/instructor/12-for-loops.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/instructor/15-coffee.html</loc>
+    <loc>https://domonik.github.io/python-novice/instructor/13-conditionals.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/instructor/16-writing-functions.html</loc>
+    <loc>https://domonik.github.io/python-novice/instructor/14-looping-data-sets.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/instructor/17-scope.html</loc>
+    <loc>https://domonik.github.io/python-novice/instructor/15-coffee.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/instructor/18-style.html</loc>
+    <loc>https://domonik.github.io/python-novice/instructor/16-writing-functions.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/instructor/19-wrap.html</loc>
+    <loc>https://domonik.github.io/python-novice/instructor/17-scope.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/instructor/20-feedback.html</loc>
+    <loc>https://domonik.github.io/python-novice/instructor/18-style.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/instructor/404.html</loc>
+    <loc>https://domonik.github.io/python-novice/instructor/19-wrap.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/instructor/CODE_OF_CONDUCT.html</loc>
+    <loc>https://domonik.github.io/python-novice/instructor/20-feedback.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/instructor/LICENSE.html</loc>
+    <loc>https://domonik.github.io/python-novice/instructor/404.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/instructor/design.html</loc>
+    <loc>https://domonik.github.io/python-novice/instructor/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/instructor/discuss.html</loc>
+    <loc>https://domonik.github.io/python-novice/instructor/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/instructor/exercises.html</loc>
+    <loc>https://domonik.github.io/python-novice/instructor/aio.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/instructor/index.html</loc>
+    <loc>https://domonik.github.io/python-novice/instructor/design.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/instructor/profiles.html</loc>
+    <loc>https://domonik.github.io/python-novice/instructor/discuss.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/instructor/reference.html</loc>
+    <loc>https://domonik.github.io/python-novice/instructor/exercises.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/profiles.html</loc>
+    <loc>https://domonik.github.io/python-novice/instructor/images.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-gapminder/reference.html</loc>
+    <loc>https://domonik.github.io/python-novice/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://domonik.github.io/python-novice/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://domonik.github.io/python-novice/instructor/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://domonik.github.io/python-novice/instructor/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://domonik.github.io/python-novice/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://domonik.github.io/python-novice/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://domonik.github.io/python-novice/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://domonik.github.io/python-novice/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://domonik.github.io/python-novice/reference.html</loc>
   </url>
 </urlset>
