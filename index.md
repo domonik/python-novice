@@ -2,6 +2,7 @@
 permalink: index.html
 site: sandpaper::sandpaper_site
 ---
+<script src="files/additional.js" type="text/javascript"></script>
 
 This lesson is an introduction to programming in Python 3 for people with little or no previous
 programming experience. It uses plotting as its motivating example and is designed to be used in
