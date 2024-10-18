@@ -4,6 +4,7 @@ teaching: 0
 exercises: 0
 break: 15
 ---
+<script src="files/additional.js" type="text/javascript"></script>
 
 ## Reflection exercise
 
