@@ -58,7 +58,7 @@ contact: 'team@carpentries.org'
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes: 
+episodes:
 - 01-run-quit.md
 - 02-variables.md
 - 03-types-conversion.md
@@ -81,13 +81,13 @@ episodes:
 - 20-feedback.md
 
 # Information for Learners
-learners: 
+learners:
 
 # Information for Instructors
-instructors: 
+instructors:
 
 # Learner Profiles
-profiles: 
+profiles:
 
 # Customisation ---------------------------------------------
 #
@@ -95,6 +95,6 @@ profiles:
 # sandpaper and varnish versions) should live
 
 
-url: 'https://swcarpentry.github.io/python-novice-gapminder'
+url: 'https://domonik.github.io/python-novice'
 analytics: carpentries
 lang: en

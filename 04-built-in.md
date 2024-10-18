@@ -3,6 +3,7 @@ title: Built-in Functions and Help
 teaching: 15
 exercises: 10
 ---
+<script src="files/additional.js" type="text/javascript"></script>
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 

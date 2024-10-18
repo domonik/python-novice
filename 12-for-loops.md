@@ -3,6 +3,7 @@ title: For Loops
 teaching: 10
 exercises: 15
 ---
+<script src="files/additional.js" type="text/javascript"></script>
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 

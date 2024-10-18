@@ -4,6 +4,7 @@ teaching: 0
 exercises: 0
 break: 45
 ---
+<script src="files/additional.js" type="text/javascript"></script>
 
 Over lunch, reflect on and discuss the following:
 

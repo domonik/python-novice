@@ -3,6 +3,7 @@ title: Programming Style
 teaching: 15
 exercises: 15
 ---
+<script src="files/additional.js" type="text/javascript"></script>
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
