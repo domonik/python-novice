@@ -212,7 +212,7 @@ print(sample(bases, 1)[0])
 ```
 
 Note that this function returns a list of values. We will learn about
-lists in [episode 11](11-lists.md).
+lists in [episode 11](07-lists.md).
 
 The simplest and shortest solution is the [`random.choice`](https://docs.python.org/3/library/random.html#random.choice)
 function that does exactly what we want:

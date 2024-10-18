@@ -212,7 +212,7 @@ I know...
   - If `help(math)` produces an error, what have you forgotten to do?
   - Fill in the blanks in code below so that the import statement and program run.
 
-### [Reading Tabular Data](../episodes/07-reading-tabular.md) (10:55)
+### [Reading Tabular Data](../episodes/10-reading-tabular.md) (10:55)
 
 - Teaching: 10 min
   - Import the Pandas library.
@@ -224,7 +224,7 @@ I know...
   - What string(s) should you pass to `read_csv` to read files from other directories?
   - How can you *write* CSV data?
 
-### [DataFrames](../episodes/08-data-frames.md) (11:15)
+### [DataFrames](../episodes/11-data-frames.md) (11:15)
 
 - Teaching: 15 min
   - Select individual values from a Pandas dataframe.
@@ -243,7 +243,7 @@ I know...
     what would you do if asked to create a table of GDP per capita for Poland
     for the Twentieth Century?
 
-### [Plotting](../episodes/09-plotting.md) (11:45)
+### [Plotting](../episodes/12-plotting.md) (11:45)
 
 - Teaching: 15 min
   - Create a time series plot showing a single data set.
@@ -255,7 +255,7 @@ I know...
 
 ### [Lunch](../episodes/10-lunch.md) (12:15): 45 min
 
-### [Lists](../episodes/11-lists.md) (13:00)
+### [Lists](../episodes/07-lists.md) (13:00)
 
 - Teaching: 10 min
   - Explain why programs need collections of values.
@@ -269,7 +269,7 @@ I know...
   - What are the differences between sorting these two ways?
   - What is the difference between `new = old` and `new = old[:]`?
 
-### [Loops](../episodes/12-for-loops.md) (13:20)
+### [Loops](../episodes/08-for-loops.md) (13:20)
 
 - Teaching: 10 min
   - Explain what for loops are normally used for.
@@ -331,7 +331,7 @@ I know...
   - Modify this program so that it always finds the largest and smallest values in a list
     no matter what the list's values are.
 
-### [Programming Style](../episodes/18-style.md) (15:25)
+### [Programming Style](../episodes/17-style.md) (15:25)
 
 - Teaching: 15 min
   - How can I make my programs more readable?
@@ -342,14 +342,14 @@ I know...
   - Turn the comments in this program into docstrings.
   - Rewrite this short program to be more readable.
 
-### [Wrap-Up](../episodes/19-wrap.md) (15:55)
+### [Wrap-Up](../episodes/18-wrap.md) (15:55)
 
 - Teaching: 20 min
   - Name and locate scientific Python community sites for software, workshops, and help.
 - Challenges: 0 min
   - None.
 
-### [Feedback](../episodes/20-feedback.md) (16:15)
+### [Feedback](../episodes/19-feedback.md) (16:15)
 
 - Teaching: 0 min
 - Challenges: 15 min
