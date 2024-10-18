@@ -62,3 +62,19 @@ jobs:
           sandpaper::package_cache_trigger(TRUE)
           sandpaper:::ci_deploy(reset = reset)
         shell: Rscript {0}
+      - name: "Checkout gh-pages branch"
+        run: |
+            git fetch origin
+            git checkout gh-pages
+
+      - name: "Modify index.html"
+        run: |
+            echo "<script src="files/additional.js" type="text/javascript"></script>" >> index.html
+
+      - name: "Commit and Push Changes"
+        run: |
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add index.html
+            git commit -m "Add a new line to index.html via GitHub Actions"
+            git push origin gh-pages
