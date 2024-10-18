@@ -63,22 +63,20 @@ episodes:
 - 02-variables.md
 - 03-types-conversion.md
 - 04-built-in.md
-- 05-coffee.md
 - 06-libraries.md
-- 07-reading-tabular.md
-- 08-data-frames.md
-- 09-plotting.md
-- 10-lunch.md
-- 11-lists.md
-- 12-for-loops.md
-- 13-conditionals.md
-- 14-looping-data-sets.md
-- 15-coffee.md
-- 16-writing-functions.md
-- 17-scope.md
-- 18-style.md
-- 19-wrap.md
-- 20-feedback.md
+- 07-lists.md
+- 08-for-loops.md
+- 09-conditionals.md
+- 10-reading-tabular.md
+- 11-data-frames.md
+- 12-plotting.md
+- 13-looping-data-sets.md
+- 14-coffee.md
+- 15-writing-functions.md
+- 16-scope.md
+- 17-style.md
+- 18-wrap.md
+- 19-feedback.md
 
 # Information for Learners
 learners:
