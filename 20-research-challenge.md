@@ -17,13 +17,57 @@ exercises: 30
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Steps
 
-1. Download the pre-formatted <a href=files/Challenge_Synaptoperitis_Student.ipynb download>ipython notebook </a> download and place it in your working directory. 
-2. Download <a href=files/combined_counts.csv download>combined_counts.csv</a> and <a href=files/pseudogene_mapping.csv> pseudogene_mapping.csv</a> and place them alongside your notebook
-3. Solve the exercises in the ipython notebook. 
+:::::::::::::::::::::::::::::::::::::::::  callout
+
+## Note
+
+This task is simplified for learning purposes. Real RNA sequencing analysis involves more complex steps, but the goal 
+here is to practice essential data manipulation and visualization skills. Synaptoperitis is a fictional disease, and 
+all gene names and data in this exercise are entirely fictional, designed solely for learning purposes. For some 
+subtasks you  will need to refer to Python documentation or conduct web reviews which is also a major part of real 
+life data science / coding.*
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
+In this exercise, you’re joining a research team (2 people) with a critical mission: to identify a potential key gene in the progression of the fictional disease Synaptoperitis! Your findings in this fictional dataset could theoretically guide the next steps toward therapy development (if this disease were real!).
+
+#### Background:
+
+Synaptoperitis is a fictional neurodegenerative disorder characterized by the progressive deterioration of synaptic function, leading to cognitive decline and motor impairment. Symptoms may include memory loss, difficulties in coordination, and changes in mood or behavior. The exact mechanisms underlying Synaptoperitis remain largely unknown, but it is believed that certain genes may be involved in the regulation of synaptic health and neurotransmitter balance. 
+<br/><br/>
+The team has collected RNA data from "healthy" and "diseased" brain tissue from a mouse model of the disease to identify which genes are upregulated, hypothesizing that some of those could play a crucial role in disease progression. Through your data analysis, you will search for these significantly upregulated genes and identify a primary target for hypothetical therapies.
+
+#### Your Research Tasks:
+
+- Task 1: Load the fictional count data for control and diseased tissue as well as the pseudogene_mapping and familiarize yourself with the data.
+
+- Task 2: Review the expression counts for a gene of interest suggested by the team (AKT7LA1) in healthy vs. diseased tissues.
+
+- Task 3: Calculate the fold-change upregulation for each gene in diseased tissue compared to healthy tissue.
+
+- Task 4: Identify genes that are upregulated at least 2-fold and rank them to determine the top candidates.
+
+- Task 5: Visualize the highest-upregulated gene with a bar plot comparing its counts in healthy vs. diseased samples.
+
+
+### Awards:
+
+- **Groundbreaking Research**: The team that completes all tasks correctly in the shortest time.
+
+- **Best Science Illustration**: Team with the prettiest bar plot (voted by all teams).
+
+
+
+:::::::::::::::::::::::::::::::::::::::  challenge
+
+## Download the Data
+
+Download <a href=files/combined_counts.csv download>combined_counts.csv</a> and
+<a href=files/pseudogene_mapping.csv> pseudogene_mapping.csv</a> and place them alongside a new notebook
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 :::::::::::::::::::::::::::::::::::::::  challenge
@@ -172,7 +216,7 @@ df.head()
 ## Solution
 
 ```python
-two_fold = df[df["foldChange"] >= 2]
+two_fold = df[df["Fold_Change"] >= 2]
 two_fold = two_fold.sort_values("Fold_Change", ascending=False)
 two_fold.to_csv("Synaptoperitis_at_least_two_fold.csv") # This saves the detected candidates to csv
 num_two_fold_genes = len(two_fold)
