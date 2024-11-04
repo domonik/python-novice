@@ -13,7 +13,7 @@ exercises: 30
 
 :::::::::::::::::::::::::::::::::::::::: questions
 
-- How did the class go?
+- How do i analyze data using python?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
